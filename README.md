@@ -1,8 +1,23 @@
-# GitHub Meta project (.github)
+# GitHub Meta Project (.github)
 
-This repository manages community files, which are relevant for all our projects.
+This repository is used to manage community health files, which are relevant for all our projects.
+Furthermore, we are providing our default integration configurations for bots and apps via this repository.
 
-It provides a default for specific files and can be overwritten by each project. See the [GitHub Documentation](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file) regarding community Health files for further information.
+Community files are:
+
+- Code of Conduct
+- Contributing guidelines
+- Security Policy
+- etc.
+
+It provides a default for said community files and can be overwritten by each project. See the [GitHub Documentation](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file) regarding community health files for further information.
+
+## Why
+
+Simple it is hard for us at OSPO to check all the repositories for their community health files, but we see them as really important.
+
+Furthermore updating one of those files to a more recent version is painful, when you have to check all the projects.
+Now we do have one point of truth for the default, if a project decides to deviate from this default, it is also the project's responsibility to take care of its community files.
 
 ## Contents
 
@@ -18,7 +33,7 @@ The following files will be used as a fallback for all the projects within the s
 
 ### Organization Profile
 
-The `profile/README.md` is used for the introductory front text of the Organization.
+The `profile/README.md` is used for the basic front text of the Organization.
 
 ### Architectural Decision Records
 
