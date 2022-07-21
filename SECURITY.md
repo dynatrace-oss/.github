@@ -1,6 +1,6 @@
 # Security Policy
 
-This page borrows parts of its contents from https://kubernetes.io/security/
+This page borrows parts of its contents from <https://kubernetes.io/security/>
 
 ## Report a Vulnerability
 
