@@ -6,7 +6,7 @@ This page borrows parts of its contents from <https://kubernetes.io/security/>
 
 We are extremely grateful for security researchers and users that report vulnerabilities to the Dynatrace Open Source Community. All reports are thoroughly investigated by a set of community members.
 
-To make a report, submit your vulnerability to <opensource@dynatrace.com>. This allows triage and handling of the vulnerability with standardized response times.
+To make a report, submit your vulnerability to <opensource@dynatrace.com>. This allows triage and handling of the vulnerability within an appropriate timeframe and best effort.
 If you would like to use encryption for your message, please first reach out to request a PGP key.
 
 ### When Should I Report a Vulnerability?
@@ -23,7 +23,7 @@ If you would like to use encryption for your message, please first reach out to 
 
 ## Security Vulnerability Response
 
-Each report is acknowledged and analyzed by the security contacts within 5 working days. This will set off the [Security Release Process](#process).
+Each report is acknowledged and analyzed by the security contacts within an appropriate timeframe. This will set off the [Security Release Process](#process).
 
 Any vulnerability information shared with the Dynatrace Open Source Community stays within Dynatrace Open Source Community and will not be disseminated to other projects unless it is necessary to get the issue fixed.
 
@@ -33,6 +33,6 @@ A public disclosure date is negotiated by the Dynatrace Open Source Community an
 
 ## Process
 
-If you find a security-related bug in a Dynatrace Open Source project, we kindly ask you for responsible disclosure and for giving us appropriate time to react, analyze, and develop a fix to mitigate the found security vulnerability. The security contact will investigate the issue within 5 working days.
+If you find a security-related bug in a Dynatrace Open Source project, we kindly ask you for responsible disclosure and for giving us appropriate time to react, analyze, and develop a fix to mitigate the found security vulnerability. The security contact will investigate the issue within an appropriate timeframe.
 
 The team will react promptly to fix the security issue and its workaround/fix will be published along with a classification of the security issue.
