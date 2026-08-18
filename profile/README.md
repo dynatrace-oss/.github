@@ -1,22 +1,147 @@
 # Dynatrace Open Source
 
-This organization contains Open Source projects maintained by Dynatrace.
-If not stated differently, these projects are not officially supported.
+Welcome to the Dynatrace open source community.
 
-If you do have questions regarding any project within this organization, please open a GitHub issue for said project.
+Dynatrace participates in open source as a contributor, maintainer, consumer, and ecosystem partner. Our public projects support observability, developer tooling, integrations, open standards, and collaboration across the broader technology ecosystem.
 
-If you do have general questions about open-source at Dynatrace, feel free to contact us at <opensource@dynatrace.com>.
+---
 
-## Default License
+## Dynatrace Open Source Hub
 
-We are using `Apache License 2.0` as our default License, see <https://www.apache.org/licenses/LICENSE-2.0>.
+The **[Dynatrace Open Source Hub](https://github.com/dynatrace-oss/Open-Source-Hub)** is the central resource for understanding how Dynatrace works in open source.
 
-> The Apache License 2.0 makes sure that the user does not have to worry about infringing any patents by using the software. The user is granted a license to any patent that covers the software. Through an in terrorem clause, this license is terminated if the user sues anyone over patent infringement related to this software. This condition is added in order to prevent patent litigations. - <https://en.wikipedia.org/wiki/Apache_License#Apache_License_2.0>
+The Hub includes:
 
-## Important links
+- How Dynatrace approaches open source
+- Public repository governance
+- Support models
+- Contribution guidance
+- Repository lifecycle standards
+- Security and responsible disclosure guidance
+- Customer and partner guidance
+- Public repository inventory
 
-> **Note**
-> The following links represent our GitHub Organization defaults, it might be that certain projects do have their own versions of those files.
+[Explore the Open Source Hub →](https://github.com/dynatrace-oss/Open-Source-Hub)
 
-- [Code of Conduct](https://github.com/dynatrace-oss/.github/blob/main/CODE_OF_CONDUCT.md)
-- [Security Policy](https://github.com/dynatrace-oss/.github/blob/main/SECURITY.md)
+---
+
+## Explore Dynatrace open source
+
+Dynatrace public repositories may include:
+
+- Strategic ecosystem projects
+- Officially supported open source components
+- Community-supported projects
+- Experimental projects
+- Developer tools and integrations
+- Examples and educational resources
+- Upstream and standards-related work
+
+You can explore our public repository portfolio through the:
+
+[Public Repository Inventory](https://github.com/dynatrace-oss/Open-Source-Hub/tree/main/inventory)
+
+---
+
+## Support models
+
+Not every public repository has the same support model.
+
+Projects may be:
+
+| Support model | What it means |
+|---|---|
+| **Officially supported** | Connected to a supported Dynatrace offering with documented support expectations |
+| **Community-supported** | Maintained openly, with responses and development based on maintainer capacity |
+| **Experimental** | Early-stage or exploratory work that may change significantly |
+| **Maintenance-only** | Stable projects receiving limited maintenance rather than active feature development |
+
+A repository being public does **not** automatically mean that it is formally supported by Dynatrace.
+
+Each repository should document its current support expectations.
+
+[Learn more about support models →](https://github.com/dynatrace-oss/Open-Source-Hub/blob/main/docs/governance/support-models.md)
+
+---
+
+## Contributing
+
+We welcome participation in projects that accept external contributions.
+
+Before contributing:
+
+1. Review the repository's `README.md`.
+2. Read its `CONTRIBUTING.md`.
+3. Search existing issues and pull requests.
+4. Open an issue or discussion before beginning significant work where appropriate.
+5. Follow repository-specific testing and documentation requirements.
+
+For more guidance:
+
+- [External Contributors](https://github.com/dynatrace-oss/Open-Source-Hub/blob/main/docs/contributing/external-contributors.md)
+- [Upstream Contributions](https://github.com/dynatrace-oss/Open-Source-Hub/blob/main/docs/contributing/upstream-contributions.md)
+
+---
+
+## Customers and partners
+
+Customers and partners may participate as users, contributors, integrators, collaborators, or maintainers.
+
+The Open Source Hub provides guidance on:
+
+- When to use GitHub versus Dynatrace Support
+- Contributing changes
+- Partner-created projects
+- Customer-created projects
+- Upstream collaboration
+- Repository transfers and project stewardship
+
+[Read the Customer and Partner Guidance →](https://github.com/dynatrace-oss/Open-Source-Hub/blob/main/docs/getting-started/customer-and-partner-guidance.md)
+
+---
+
+## Security
+
+Please **do not report suspected security vulnerabilities through public GitHub Issues, pull requests, or Discussions**.
+
+Use the private reporting process defined by the Dynatrace security policy or the repository-specific security guidance where one exists.
+
+[View Dynatrace security guidance →](https://github.com/dynatrace-oss/Open-Source-Hub/blob/main/docs/maintaining/security-readiness.md)
+
+---
+
+## Licensing
+
+Each repository defines the license that applies to that project.
+
+Always review the repository's `LICENSE` file before using, modifying, distributing, or contributing to a project.
+
+---
+
+## How we approach open source
+
+Our approach is built around a few core principles:
+
+- **Start with purpose** — open source should create clear value.
+- **Design for openness** — public requirements should be considered early.
+- **Make ownership visible** — active projects need accountable maintainers.
+- **Be explicit about support** — users should understand what they can expect.
+- **Contribute upstream** — avoid unnecessary downstream divergence.
+- **Build sustainably** — publication is the start of a project's lifecycle, not the end.
+
+[Learn how Dynatrace approaches open source →](https://github.com/dynatrace-oss/Open-Source-Hub/blob/main/docs/getting-started/how-dynatrace-approaches-open-source.md)
+
+---
+
+## Need help?
+
+For questions about an individual project, start with that repository's:
+
+- `README.md`
+- `CONTRIBUTING.md`
+- GitHub Issues or Discussions
+- Documented support guidance
+
+For broader guidance, visit the:
+
+**[Dynatrace Open Source Hub](https://github.com/dynatrace-oss/Open-Source-Hub)**
